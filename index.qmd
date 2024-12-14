@@ -1,0 +1,91 @@
+---
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    width: 1600
+    height: 900
+    logo: imagenes/logo.png
+    css: logo.css
+    fig.align: "center"
+embed-resources: true
+---
+
+##  {.title}
+
+**R Ladies** y **R en Buenos Aires** presentan:
+
+::: r-fit-text
+**R en Red**:
+
+[Arcenso]{.flow}, Oportunidades
+
+y Comunidad
+:::
+
+Andrea Gomez Vargas y Emanuel Ciardullo; María Nanton, Jesica Formoso y Betsy Cohen
+
+# Código de conducta
+
+::: incremental
+-   🌈 Nuestro objetivo es que disfrutes este espacio. Si algo no está bien, avísanos.
+
+-   🛡️ Todos los espacios de participación R en Buenos Aires, se rigen por el [Código de conducta de R en Buenos Aires.](https://renbaires.github.io/cdc)
+:::
+
+# R Ladies Buenos Aires <img src="https://i.gifer.com/YVP8.gif" width="120px"/> {.ladies}
+
+::::: columns
+::: {.column width="30%"}
+![](https://rladiesba.netlify.app/author/rladies-buenos-aires/avatar_huae50964fd4ece6c135015c99a5e9a56e_144270_270x270_fill_lanczos_center_2.png){width="500"}
+:::
+
+::: {.column width="70%"}
+<br> 
+Capítulo local de RLadies global, una organización mundial que promueve la Diversidad de Género en la comunidad R. Su meta es crear una atmósfera amigable para personas interesadas en programar en R en Buenos Aires que se identifiquen con géneros menos representados en la comunidad de R (que incluye pero no se limita a mujeres cis/trans, hombres trans, personas no binarias, género fluído o agénero).
+:::
+:::::
+
+# R en Buenos Aires  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px"/> {.title}
+
+::::: columns
+::: {.column width="30%"}
+![](https://renbaires.github.io/assets/icons/icon.png){width="500"}
+:::
+
+::: {.column width="70%"}
+<br> Este grupo surge con la misión de conectar a quienes usan el lenguaje de programación R en Buenos Aires, independientemente de su grado de conocimiento y el ámbito de aplicación del mismo. El objetivo es promover el uso R, el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios.
+:::
+:::::
+
+##  {.title}
+<!-- ### **Actividades en ** -->
+::: r-fit-text
+[2025]{.hexs}
+:::
+
+
+
+
+# **Club de Lectura de Shiny** {.title}
+
+::: columns
+::: {.column width="60%"}
+<!-- <br> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBmNzZ2Nm8zNXc3bHZqaXhycTMyOHJ0b2Vma2FmNnZmMnl0czkycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JEhCPFfqi2Hy8/giphy.gif" width="150%"/> -->
+
+![](imagenes/club_lectura.png)
+:::
+
+::: {.column width="40%"}
+🗓️ 2025
+
+📚[Mastering Shiny](https://mastering-shiny.org/)
+
+💟 Junto con [R-Ladies BA](https://rladiesba.netlify.app/) & 
+
+
+[R-Ladies Resistencia-Corrientes](https://twitter.com/rladies_rciacte)
+:::
+:::
+
+# Gracias💫 {.section}
+
