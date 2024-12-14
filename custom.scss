@@ -2,7 +2,6 @@
 
 $theme-light: #263e7e;
 $theme-yellow: #263e7e;
-$theme-orange: #D97146;
 $theme-red: #AD5769;
 $theme-grey:#fcfcfc;
 $theme-lightgrey: #90A1B8;
@@ -17,9 +16,19 @@ $code-block-font-size: 1em;
 
 /*-- scss:rules --*/
 
-.orange {
-  color: $theme-orange;
-  font-weight: bold;
+
+.rladies {
+  &.slide-background {
+    background: $theme-grey;
+  }
+
+  h1 {
+    color: $theme-vos;
+  }
+}
+
+.rladies h1 {
+  color:  #7d2d83 !important; /* Violeta */
 }
 
 .red {
@@ -95,3 +104,4 @@ $code-block-font-size: 1em;
   background: $theme-vos;
   }
 }
+

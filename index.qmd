@@ -6,7 +6,7 @@ format:
     height: 900
     logo: imagenes/logo.png
     css: logo.css
-    fig.align: "center"
+    fig.align: "left"
 embed-resources: true
 ---
 
@@ -21,8 +21,6 @@ embed-resources: true
 
 y Comunidad
 :::
-
-Andrea Gomez Vargas y Emanuel Ciardullo; María Nanton, Jesica Formoso y Betsy Cohen
 
 # Código de conducta
 
@@ -40,12 +38,15 @@ Andrea Gomez Vargas y Emanuel Ciardullo; María Nanton, Jesica Formoso y Betsy C
 :::
 
 ::: {.column width="70%"}
-<br> 
-Capítulo local de RLadies global, una organización mundial que promueve la Diversidad de Género en la comunidad R. Su meta es crear una atmósfera amigable para personas interesadas en programar en R en Buenos Aires que se identifiquen con géneros menos representados en la comunidad de R (que incluye pero no se limita a mujeres cis/trans, hombres trans, personas no binarias, género fluído o agénero).
+<br> Capítulo local de RLadies global, una organización mundial que promueve la Diversidad de Género en la comunidad R. Su meta es crear una atmósfera amigable para personas interesadas en programar en R en Buenos Aires que se identifiquen con géneros menos representados en la comunidad de R (que incluye pero no se limita a mujeres cis/trans, hombres trans, personas no binarias, género fluído o agénero).
 :::
 :::::
 
-# R en Buenos Aires  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px"/> {.title}
+# Organizadoras  📝 {.rladies}
+
+![](imagenes/rladies_organizadoras.png){fig-alt="organizadoras" fig-align="center"}
+
+# R en Buenos Aires <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px"/> 
 
 ::::: columns
 ::: {.column width="30%"}
@@ -57,18 +58,50 @@ Capítulo local de RLadies global, una organización mundial que promueve la Div
 :::
 :::::
 
+# Organizadoras 📝 
+
+::: columns
+::: {.column width="50%" style="text-align: center;"}
+![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%; aling: left;"}
+
+**Andrea Gomez Vargas**
+:::
+
+::: {.column width="50%" style="text-align: center;"}
+![](imagenes/ari.jpg){width="50%" style="border-radius: 80%; aling: left;"}
+
+**Ariana Bardauil**
+:::
+:::
+
+# Colaboradores <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="90" /> 
+
+::: columns
+::: {.column width="50%"  style="text-align: center;"}
+![](https://avatars.githubusercontent.com/u/64991969?v=4){width="50%" style="border-radius: 80%;"}
+
+**Emanuel Ciardullo**
+:::
+
+::: {.column width="50%"  style="text-align: center;"}
+![](imagenes/jose.png){width="50%" style="border-radius: 80%; aling: center;"}
+
+**Jose García Tácite**
+:::
+:::
+
+
 ##  {.title}
+
 <!-- ### **Actividades en ** -->
+
 ::: r-fit-text
 [2025]{.hexs}
 :::
 
-
-
-
 # **Club de Lectura de Shiny** {.title}
 
-::: columns
+::::: columns
 ::: {.column width="60%"}
 <!-- <br> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBmNzZ2Nm8zNXc3bHZqaXhycTMyOHJ0b2Vma2FmNnZmMnl0czkycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JEhCPFfqi2Hy8/giphy.gif" width="150%"/> -->
 
@@ -80,12 +113,10 @@ Capítulo local de RLadies global, una organización mundial que promueve la Div
 
 📚[Mastering Shiny](https://mastering-shiny.org/)
 
-💟 Junto con [R-Ladies BA](https://rladiesba.netlify.app/) & 
-
+💟 Junto con [R-Ladies BA](https://rladiesba.netlify.app/) &
 
 [R-Ladies Resistencia-Corrientes](https://twitter.com/rladies_rciacte)
 :::
-:::
+:::::
 
 # Gracias💫 {.section}
-
