@@ -21,12 +21,18 @@ $code-block-font-size: 1em;
   &.slide-background {
     background: $theme-grey;
   }
+  
+  color: $theme-vos;
 
   h1 {
     color: $theme-vos;
   }
 }
 
+.reveal .rladies {
+  color:  $theme-vos;
+  
+}
 .rladies h1 {
   color:  #7d2d83 !important; /* Violeta */
 }
