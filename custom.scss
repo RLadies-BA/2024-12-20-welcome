@@ -35,6 +35,12 @@ $code-block-font-size: 1em;
 }
 .rladies h1 {
   color:  #7d2d83 !important; /* Violeta */
+  text-align: center;
+}
+
+.rladies h2 {
+  color:  #7d2d83 !important; /* Violeta */
+
 }
 
 .red {
@@ -55,6 +61,10 @@ $code-block-font-size: 1em;
   color: $theme-yellow;
   
   h1 {
+    color: #263e7e; // Estilo específico para los h1
+  }
+  
+  h2 {
     color: #263e7e; // Estilo específico para los h1
   }
   
@@ -110,4 +120,6 @@ $code-block-font-size: 1em;
   background: $theme-vos;
   }
 }
+
+
 
