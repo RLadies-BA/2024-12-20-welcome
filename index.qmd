@@ -31,13 +31,10 @@ y Comunidad
 -   🛡️ Todos los espacios de participación R en Buenos Aires, se rigen por el [Código de conducta de R en Buenos Aires.](https://renbaires.github.io/cdc)
 :::
 
-# Patrocina <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif?raw=true" width="63"/> {.title}
 
-![](https://r-consortium.org/images/RConsortium_Horizontal_Pantone.webp){fig-align="center" width="971"}
+# Apoyan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true" width="40"/> {.title}
 
-# Apoyan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true" width="59"/> {.title}
-
-![](imagenes/patrocinadores.png){fig-align="center" width="758"}
+![](imagenes/patrocinadores.png){fig-align="center"}
 
 # R Ladies Buenos Aires <img src="https://i.gifer.com/YVP8.gif" width="120px"/> {.ladies}
 
