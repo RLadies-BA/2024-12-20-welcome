@@ -31,6 +31,14 @@ y Comunidad
 -   🛡️ Todos los espacios de participación R en Buenos Aires, se rigen por el [Código de conducta de R en Buenos Aires.](https://renbaires.github.io/cdc)
 :::
 
+# Patrocina <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif?raw=true" width="63"/> {.title}
+
+![](https://r-consortium.org/images/RConsortium_Horizontal_Pantone.webp){fig-align="right" width="665"}
+
+# Apoyan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true" width="59"/> {.title}
+
+![](imagenes/patrocinadores.png){fig-align="center" width="658"}
+
 # R Ladies Buenos Aires <img src="https://i.gifer.com/YVP8.gif" width="120px"/> {.ladies}
 
 ::::: columns
@@ -77,19 +85,23 @@ y Comunidad
 
 # Colaboradores <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="90"/>
 
-::::: columns
-::: {.column width="50%" style="text-align: center;"}
-![](https://avatars.githubusercontent.com/u/64991969?v=4){width="50%" style="border-radius: 80%;"}
+:::::: columns
+::: {.column width="33%"}
+![](https://avatars.githubusercontent.com/u/64991969?v=4){style="border-radius: 80%;" width="305"}
 
 **Emanuel Ciardullo**
 :::
 
-::: {.column width="50%" style="text-align: center;"}
-![](imagenes/jose.png){width="50%" style="border-radius: 80%; aling: center;"}
+::: {.column width="33%"}
+![](imagenes/cande.jpg){style="border-radius: 100%; aling: center;" width="316"}
 
-**Jose García Tácite**
+**Candela Villalonga**
 :::
-:::::
+
+::: {.column width="33%"}
+![](imagenes/jose.png){style="border-radius: 80%; aling: center;"} **Jose García Tácite**
+:::
+::::::
 
 ##  {.rladies background-image="https://i.gifer.com/2yqT.gif" background-size="600px" background-repeat="repeat"}
 
@@ -146,7 +158,8 @@ nuestro 2024?
 ![](imagenes/6.png){fig-align="center"}
 
 # 🗓️ Agenda
-<br> 
+
+<br>
 
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | <br> ![](https://github.com/SoyAndrea/arcenso/blob/master/man/figures/logo.png?raw=true){width="573" fig-align="center"}                                                                               | **Andrea Gomez Vargas y Emanuel Ciardullo** nos estarán presentando avances y primeros pasos en su experiencia desarrollando el paquete [arcenso](https://soyandrea.github.io/arcenso/) para la gestión de datos de los censos nacionales de población como parte del programa de campeones y campeonas del software de rOpenSci. |
