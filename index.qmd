@@ -96,7 +96,9 @@ y Comunidad
 :::
 
 ::: {.column width="33%"}
-![](imagenes/jose.png){style="border-radius: 80%; aling: center;"} **Jose García Tácite**
+![](imagenes/jose.png){style="border-radius: 80%; aling: center;"} 
+
+**Jose García Tácite**
 :::
 ::::::
 
