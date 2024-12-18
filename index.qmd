@@ -31,10 +31,13 @@ y Comunidad
 -   🛡️ Todos los espacios de participación R en Buenos Aires, se rigen por el [Código de conducta de R en Buenos Aires.](https://renbaires.github.io/cdc)
 :::
 
-
-# Apoyan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true" width="40"/> {.title}
+# Patrocinan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif?raw=true" width="40"/> {.title}
 
 ![](imagenes/patrocinadores.png){fig-align="center"}
+
+# Apoyan  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true" width="40"/> {.title}
+
+![](imagenes/apoyan.png){fig-align="center"}
 
 # R Ladies Buenos Aires <img src="https://i.gifer.com/YVP8.gif" width="120px"/> {.ladies}
 
@@ -56,7 +59,7 @@ y Comunidad
 
 ::::: columns
 ::: {.column width="30%"}
-![](https://renbaires.github.io/assets/icons/icon.png){width="500"}
+![](imagenes/renba.png){width="500"}
 :::
 
 ::: {.column width="70%"}
@@ -96,7 +99,7 @@ y Comunidad
 :::
 
 ::: {.column width="33%"}
-![](imagenes/jose.png){style="border-radius: 80%; aling: center;"} 
+![](imagenes/jose.png){style="border-radius: 80%; aling: center;"}
 
 **Jose García Tácite**
 :::
