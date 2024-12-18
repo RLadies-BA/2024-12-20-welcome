@@ -33,11 +33,11 @@ y Comunidad
 
 # Patrocina <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif?raw=true" width="63"/> {.title}
 
-![](https://r-consortium.org/images/RConsortium_Horizontal_Pantone.webp){fig-align="right" width="665"}
+![](https://r-consortium.org/images/RConsortium_Horizontal_Pantone.webp){fig-align="center" width="971"}
 
 # Apoyan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true" width="59"/> {.title}
 
-![](imagenes/patrocinadores.png){fig-align="center" width="658"}
+![](imagenes/patrocinadores.png){fig-align="center" width="758"}
 
 # R Ladies Buenos Aires <img src="https://i.gifer.com/YVP8.gif" width="120px"/> {.ladies}
 
