@@ -121,11 +121,11 @@ nuestro 2024?
 
 ![](imagenes/3.png){fig-align="center"}
 
-## <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="42"/> R en Buenos Aires {.title}
+## <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="42"/> R en Buenos Aires <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="56"/> NIS {.title}
 
 ![](imagenes/5.png){fig-align="center" width="1137"}
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="38"/> R en Buenos Aires {.title}
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="38"/> R en Buenos Aires <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="56"/> DLM {.title}
 
 ![](imagenes/4.png){fig-align="center"}
 
