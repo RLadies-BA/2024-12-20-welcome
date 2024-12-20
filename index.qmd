@@ -18,7 +18,7 @@ embed-resources: true
 ::: r-fit-text
 **R en Red**:
 
-[Arcenso]{.flow}, Oportunidades
+[ARcenso]{.flow}, Oportunidades
 
 y Comunidad
 :::
@@ -164,7 +164,7 @@ nuestro 2024?
 <br>
 
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| <br> ![](https://github.com/SoyAndrea/arcenso/blob/master/man/figures/logo.png?raw=true){width="573" fig-align="center"}                                                                               | **Andrea Gomez Vargas y Emanuel Ciardullo** nos estarán presentando avances y primeros pasos en su experiencia desarrollando el paquete [arcenso](https://soyandrea.github.io/arcenso/) para la gestión de datos de los censos nacionales de población como parte del programa de campeones y campeonas del software de rOpenSci. |
+| <br> ![](https://github.com/SoyAndrea/arcenso/blob/master/man/figures/logo.png?raw=true){width="573" fig-align="center"}                                                                               | **Andrea Gomez Vargas y Emanuel Ciardullo** nos estarán presentando avances y primeros pasos en su experiencia desarrollando el paquete [ARcenso](https://soyandrea.github.io/arcenso/) para la gestión de datos de los censos nacionales de población como parte del programa de campeones y campeonas del software de rOpenSci. |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | <br> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxxZnJzNXg2enJwNXc5cHFudHF0azZubGpqdzlpMzA3eTR6dHdyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnBntKOgnUSBkV7bQH/giphy.gif" width="531"/> | **María Nanton, Jesica Formoso y Betsy Cohen** nos van a presentar diferentes experiencias y oportunidades de becas, conferencias y experiencias de trabajo dentro de la comunidad de R a nivel local como internacional.                                                                                                         |
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
